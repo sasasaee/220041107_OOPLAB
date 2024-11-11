@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1728822675 source:c:\users\acer\desktop\cse4302\220041107_t03(updated)l06_1a.cpp\main.cpp
+	<iostream>
+	"celsius.h"
+	"fahrenheit.h"
+	"kelvin.h"
+
+1728823355 c:\users\acer\desktop\cse4302\220041107_t03(updated)l06_1a.cpp\include\celsius.h
+
+1728823355 c:\users\acer\desktop\cse4302\220041107_t03(updated)l06_1a.cpp\include\fahrenheit.h
+
+1728823355 c:\users\acer\desktop\cse4302\220041107_t03(updated)l06_1a.cpp\include\kelvin.h
+
+1728823457 source:c:\users\acer\desktop\cse4302\220041107_t03(updated)l06_1a.cpp\src\celsius.cpp
+	<iostream>
+	"celsius.h"
+	"fahrenheit.h"
+	"kelvin.h"
+
+1728823457 source:c:\users\acer\desktop\cse4302\220041107_t03(updated)l06_1a.cpp\src\fahrenheit.cpp
+	"fahrenheit.h"
+	"kelvin.h"
+	"celsius.h"
+	<iostream>
+
+1728823457 source:c:\users\acer\desktop\cse4302\220041107_t03(updated)l06_1a.cpp\src\kelvin.cpp
+	"kelvin.h"
+	<iostream>
+	"celsius.h"
+	"fahrenheit.h"
+

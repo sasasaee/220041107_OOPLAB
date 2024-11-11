@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1728797844 source:c:\users\acer\desktop\cse4302\220041107_t02(updated)l06_1a.cpp\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"coordinate.h"
+
+1728797962 c:\users\acer\desktop\cse4302\220041107_t02(updated)l06_1a.cpp\include\coordinate.h
+
+1728797969 source:c:\users\acer\desktop\cse4302\220041107_t02(updated)l06_1a.cpp\src\coordinate.cpp
+	"coordinate.h"
+	<cmath>
+	<iostream>
+
+1728797969 source:c:\users\acer\desktop\cse4302\lab 06\220041107_t02(updated)l06_1a.cpp\src\coordinate.cpp
+	"coordinate.h"
+	<cmath>
+	<iostream>
+
+1728797962 c:\users\acer\desktop\cse4302\lab 06\220041107_t02(updated)l06_1a.cpp\include\coordinate.h
+

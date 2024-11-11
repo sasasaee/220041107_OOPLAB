@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728795009 source:c:\users\acer\desktop\cse4302\220041107_t01l06_1a.cpp\main.cpp
+	<iostream>
+	"counter.h"
+
+1728795075 c:\users\acer\desktop\cse4302\220041107_t01l06_1a.cpp\include\counter.h
+
+1728795081 source:c:\users\acer\desktop\cse4302\220041107_t01l06_1a.cpp\src\counter.cpp
+	<iostream>
+	"counter.h"
+

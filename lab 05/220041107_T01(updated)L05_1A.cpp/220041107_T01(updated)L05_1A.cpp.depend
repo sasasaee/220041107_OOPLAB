@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1728816758 source:c:\users\acer\desktop\cse4302\220041107_t01(updated)l05_1a.cpp\src\savingsaccount.cpp
+	<iostream>
+	<string>
+	"savingsaccount.h"
+	<iostream>
+	<string>
+	"savingsaccount.h"
+
+1728816607 c:\users\acer\desktop\cse4302\220041107_t01(updated)l05_1a.cpp\include\savingsaccount.h
+
+1728816758 source:c:\users\acer\desktop\cse4302\lab 05\220041107_t01(updated)l05_1a.cpp\src\savingsaccount.cpp
+	<iostream>
+	<string>
+	"savingsaccount.h"
+
+1728816607 c:\users\acer\desktop\cse4302\lab 05\220041107_t01(updated)l05_1a.cpp\include\savingsaccount.h
+

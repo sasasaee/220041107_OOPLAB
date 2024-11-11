@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1727689091 source:c:\users\acer\desktop\oop practise\107_task02l05\main.cpp
+	<iostream>
+	<string>
+	"Employee.h"
+
+1727692410 c:\users\acer\desktop\oop practise\107_task02l05\include\employee.h
+	<string>
+
